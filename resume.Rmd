@@ -31,10 +31,7 @@ output:
 
 -  큰 돈 벌기
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+[comment]: <> (This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).)
    
 
 # Main
