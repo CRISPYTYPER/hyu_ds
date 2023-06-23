@@ -1,0 +1,88 @@
+---
+title: "Park Jin Soo's resume"
+author: 박진수
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+---
+
+# Aside
+
+![](images/myImage.JPG){width=80%}
+
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [jack3409\@hanyang.ac.kr](mailto:jack3409@hanyang.ac.kr){.email}
+-   <i class="fa fa-github"></i> [github.com/CRISPYTYPER](https://github.com/CRISPYTYPER)
+
+## Main Projects {#skills}
+
+-   훈련병들을 위한 자동 인터넷 편지 전송 서비스, "별사탕 인편" 개발 및 팀 리딩 (운영 종료) - 1만명 이상 사용
+
+-   티어 시스템을 결합한 반응속도 테스트 앱, ["반응 속도 테스트 - 내 티어는?"](https://play.google.com/store/apps/details?id=com.parksoffice.react_speed_test&hl=ko&gl=US) 개발 - 1천명 이상 다운로드
+
+## Main Interests {#skills}
+
+-  많은 사람들이 사용하는 서비스 만들기
+
+-  인공지능 기술
+
+-  큰 돈 벌기
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+   
+
+# Main
+
+## 박진수 {#title}
+<br>
+
+### 한양대학교 컴퓨터소프트웨어학부
+
+저는 중학생때부터 창업을 하고 싶어서 외고 진학을 포기하고, 적은 돈으로 창업이 가능할 것 같았던 컴퓨터 기술을 배우려고 대학에 들어왔습니다. 그래서 저의 장점이자 특기는, 공대생 치고는 영어를 잘한다는 점이라고 생각합니다(첫 토익 970점). 현재는 창업융합전공을 다중전공으로 이수하고 있습니다. 언젠가는 많은 사람들이 사용하는 글로벌 서비스를 만들어내고 싶습니다.
+
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+### 중산고등학교
+
+입학
+
+강남구 일원동
+
+2016
+
+### 한양대학교
+
+컴퓨터소프트웨어학부 입학
+
+성동구 사근동
+
+2019
+
+<br>
+
+## Programming Experience {data-icon="laptop"}
+
+### 전공수업
+
+C, Java, Python,알고리즘, 자료구조, 인공지능 등 학습
+
+성동구 사근동
+
+2019 - 현재
+
+### 공군 프로그램개발병
+
+인트라넷, 인터넷 망 웹 / 앱 체계 개발 및 유지보수
+
+충청남도 계룡시
+
+2020 - 2022
+
+-   스프링, 안드로이드, 자바스크립트 등 이용
+
